@@ -1,5 +1,8 @@
 {
-  "name": "github-pkg-demo",
+  "name": "@susangrace909/github-pkg-demo",
+  "repository": {
+    "url": "git://github.com/susangrace909/github-pkg-demo.git"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
